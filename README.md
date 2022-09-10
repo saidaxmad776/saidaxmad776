@@ -3,7 +3,9 @@
 
 
 <h1 align="center">Hello 👋, my name is Saidakhmad Ansoriddinov</h1>
-<h3 align="center">Passionate iOS developer from Uzbekistan</h3>
+<h2 align="center">I am an IOS developer from Uzbekistan</h2>
+
+#
 
 <h3 align="center">My Texnology</h3>
 
