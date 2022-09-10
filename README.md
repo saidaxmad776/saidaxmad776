@@ -21,6 +21,8 @@
 ![Flutter](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)
 ![Flutter](https://img.shields.io/badge/css-darkblue?style=for-the-badge&logo=css3)
 ![Flutter](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
+![Flutter](https://img.shields.io/badge/Coredata-darkblue?style=for-the-badge&logo=Coredata)
+
 
 
 ### Folow me
