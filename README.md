@@ -6,7 +6,7 @@
 
 <h2 align="center">I am an IOS developer from Uzbekistan</h2>
 
-## Experience
+## Experience:
 ___Worked: March 2022-August 2022 | Unical Solution Company___
 
 __Designed applications that were successfully downloaded by 1000 + user
@@ -15,7 +15,7 @@ Created my own App Store account and made two apps, the first one is Fitness App
 Worked with a senior developer for 3 months
 I am currently working on my own projects and learning new technologies.__
 
-## Education
+## Education:
  ___Lyceum of World Languages | Year: 2013 - 2017 | From: Tashkent___
 - Studied Russian with higher grammar and studied at the Faculty of Trade Manager
 - Studied at online school "SwiftBook" studied different technologies
@@ -24,7 +24,7 @@ I am currently working on my own projects and learning new technologies.__
 - I have been studying for almost a year in the direction of IOS as a developer, at that time I made 10 small applications, of which I want to publish two applications in the App Store.
 - I try to write a readable year as much as possible, I want to work on large projects
 
-## SKILLS
+## SKILLS:
 > SKILLS:
 >> - Swift, IOS SDK, UIKit
 - Creating UI: UIKit StoryBoard, XIB & programmatic
@@ -42,8 +42,9 @@ I am currently working on my own projects and learning new technologies.__
 
 ![logo](https://github.com/saidaxmad776/saidaxmad776/blob/main/language.png)
 
-<h3 align="center">My Texnology</h3>
 
+
+## Technology:
 
 ![Flutter](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift)
 ![Flutter](https://img.shields.io/badge/Firebase-darkblue?style=for-the-badge&logo=firebase)
