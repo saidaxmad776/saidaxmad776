@@ -18,6 +18,10 @@
 ![Flutter](https://img.shields.io/badge/spring-darkblue?style=for-the-badge&logo=spring)
 ![Flutter](https://img.shields.io/badge/sketch-black?style=for-the-badge&logo=sketch)
 ![Flutter](https://img.shields.io/badge/postman-darkblue?style=for-the-badge&logo=postman)
+![Flutter](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)
+![Flutter](https://img.shields.io/badge/css-darkblue?style=for-the-badge&logo=css3)
+![Flutter](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
+
 
 ### Folow me
 
