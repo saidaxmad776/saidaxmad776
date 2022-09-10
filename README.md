@@ -5,6 +5,24 @@
 <h1 align="center">Hello 👋, my name is Saidakhmad Ansoriddinov</h1>
 <h3 align="center">Passionate iOS developer from Uzbekistan</h3>
 
+<h3 align="center">My Texnology</h3>
+
+
+![Flutter](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift)
+![Flutter](https://img.shields.io/badge/Firebase-darkblue?style=for-the-badge&logo=firebase)
+![Flutter](https://img.shields.io/badge/Realm-black?style=for-the-badge&logo=realm)
+![Flutter](https://img.shields.io/badge/Git-darkblue?style=for-the-badge&logo=git)
+![Flutter](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![Flutter](https://img.shields.io/badge/UIKIT-darkblue?style=for-the-badge&logo=uikit)
+![Flutter](https://img.shields.io/badge/CocoaPods-black?style=for-the-badge&logo=CocoaPods)
+![Flutter](https://img.shields.io/badge/spring-darkblue?style=for-the-badge&logo=spring)
+![Flutter](https://img.shields.io/badge/sketch-black?style=for-the-badge&logo=sketch)
+![Flutter](https://img.shields.io/badge/postman-darkblue?style=for-the-badge&logo=postman)
+
+### Folow me
+
+
+
 
 <p align="center"> <a href="https: //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidaxmad776" alt="saidaxmad776" /></ a> </p>
 
