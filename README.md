@@ -3,9 +3,42 @@
 
 
 <h1 align="center">Hello 👋, my name is Saidakhmad Ansoriddinov</h1>
+
 <h2 align="center">I am an IOS developer from Uzbekistan</h2>
 
-#
+## Experience
+___Worked: March 2022-August 2022 | Unical Solution Company___
+
+__Designed applications that were successfully downloaded by 1000 + user
+Participated in two projects "MathTask" and "Edu Tizim Student"
+Created my own App Store account and made two apps, the first one is Fitness App and the second one is School Timetable
+Worked with a senior developer for 3 months
+I am currently working on my own projects and learning new technologies.__
+
+## Education
+ ___Lyceum of World Languages | Year: 2013 - 2017 | From: Tashkent___
+- Studied Russian with higher grammar and studied at the Faculty of Trade Manager
+- Studied at online school "SwiftBook" studied different technologies
+- Studie for 3 months with the mentor "Gorbachev Sergey" did various projects, learned how to make complex custom UI elements
+- I have been studying the Swift language for almost a year, for 3 months I helped one freelancer make up screens, helped with models with logic, and so on.
+- I have been studying for almost a year in the direction of IOS as a developer, at that time I made 10 small applications, of which I want to publish two applications in the App Store.
+- I try to write a readable year as much as possible, I want to work on large projects
+
+## SKILLS
+> SKILLS:
+>> - Swift, IOS SDK, UIKit
+- Creating UI: UIKit StoryBoard, XIB & programmatic
+- OOP, SOLID, DRY
+- Worked with frameworks: SnapKit, Alamofire, Realm, Spring, •URLSession, UserDefaults, Lotie, SwiftyJSON
+- CocoaPods, SPM
+- JSON, GIT, GitHub
+- Worked with architectures: MVC, MVP, MVVM
+- Familiar with architecture: VIPER, CleanSwift
+- NS AutoLayout Contsraints, UIStackView
+- Made custom animations
+- Design patterns: Singletone, Factory, Abstract Factory
+- I can write clean and understandable code, understand the code of others
+- I try to learn new technologies as quickly as possible and I like my work
 
 <h3 align="center">My Texnology</h3>
 
