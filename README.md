@@ -40,6 +40,8 @@ I am currently working on my own projects and learning new technologies.__
 - I can write clean and understandable code, understand the code of others
 - I try to learn new technologies as quickly as possible and I like my work
 
+![logo](https://github.com/saidaxmad776/saidaxmad776/blob/main/language.png)
+
 <h3 align="center">My Texnology</h3>
 
 
