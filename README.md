@@ -29,7 +29,7 @@ I am currently working on my own projects and learning new technologies.__
 >> - Swift, IOS SDK, UIKit
 - Creating UI: UIKit StoryBoard, XIB & programmatic
 - OOP, SOLID, DRY
-- Worked with frameworks: SnapKit, Alamofire, Realm, Spring, •URLSession, UserDefaults, Lotie, SwiftyJSON
+- Worked with frameworks: SnapKit, Alamofire, Realm, Spring, URLSession, UserDefaults, Lotie, SwiftyJSON
 - CocoaPods, SPM
 - JSON, GIT, GitHub
 - Worked with architectures: MVC, MVP, MVVM
@@ -63,7 +63,7 @@ I am currently working on my own projects and learning new technologies.__
 
 
 
-### Folow me
+## Contacts:
 
 
 
