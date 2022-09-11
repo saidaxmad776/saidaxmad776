@@ -64,7 +64,10 @@ I am currently working on my own projects and learning new technologies.__
 
 
 ## Contacts:
-
+* __Number: [+998901114100]()__
+* __Email: saidaxmad1114100@gmail.com__
+* __Telegram: [@ASaidaxmad]()__
+* __GitHub: []()__
 
 
 
