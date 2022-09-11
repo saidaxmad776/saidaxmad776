@@ -68,7 +68,7 @@ I am currently working on my own projects and learning new technologies.__
 * __Email: saidaxmad1114100@gmail.com__
 * __Telegram: [@ASaidaxmad]()__
 * __GitHub: [https://github.com/saidaxmad776]()__
-
+* __LinkeDin: [https://www.linkedin.com/in/saidaxmad-ansoriddinov-426122236/]()__
 ***
 
 ***
