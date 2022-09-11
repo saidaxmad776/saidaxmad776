@@ -66,9 +66,9 @@ I am currently working on my own projects and learning new technologies.__
 ## Contacts:
 * __Number: [+998901114100]()__
 * __Email: saidaxmad1114100@gmail.com__
-* __Telegram: [@ASaidaxmad]()__
-* __GitHub: [https://github.com/saidaxmad776]()__
-* __LinkeDin: [https://www.linkedin.com/in/saidaxmad-ansoriddinov-426122236/]()__
+* __Telegram: [My Telegram](https://t.me/ASaidaxmad)__
+* __GitHub: [My GitHub](https://github.com/saidaxmad776)__
+* __LinkeDin: [My LinkeDin](https://www.linkedin.com/in/saidaxmad-ansoriddinov-426122236/)__
 ***
 
 ***
