@@ -67,9 +67,11 @@ I am currently working on my own projects and learning new technologies.__
 * __Number: [+998901114100]()__
 * __Email: saidaxmad1114100@gmail.com__
 * __Telegram: [@ASaidaxmad]()__
-* __GitHub: []()__
+* __GitHub: [https://github.com/saidaxmad776]()__
 
+***
 
+***
 
 <p align="center"> <a href="https: //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidaxmad776" alt="saidaxmad776" /></ a> </p>
 
