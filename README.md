@@ -71,11 +71,7 @@ I am currently working on my own projects and learning new technologies.__
 * __LinkeDin: [My LinkeDin](https://www.linkedin.com/in/saidaxmad-ansoriddinov-426122236/)__
 ***
 
-
-
-
-
-
+***
 
 <p align="center"> <a href="https: //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidaxmad776" alt="saidaxmad776" /></ a> </p>
 
